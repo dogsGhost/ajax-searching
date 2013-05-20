@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<books>
+	<book>
+		<isbn>0-321-70095-3</isbn>
+		<title>The JavaScript Pocket Guide</title>
+		<authors>
+			<author>Lenny Burdette</author>
+		</authors>	
+		<publisher>Peachpit Press</publisher>
+	</book>
+	<book>
+		<isbn>978-0-596-52068-7</isbn>
+		<title>Regular Expressions Cookbook</title>
+		<authors>
+			<author>Jan Goyuaerts</author>
+			<author>Steven Levithan</author>
+		</authors>
+		<publisher>Peachpit Press</publisher>
+	</book>
+	<book>
+		<isbn>978-0-596-00987-8</isbn>
+		<title>Web Design In A Nutshell (3rd Edition)</title>
+		<authors>
+			<author>Jenifer Niederst Robbins</author>
+		</authors>	
+		<publisher>O'Reilly</publisher>
+	</book>
+	<book>
+		<isbn>978-0-596-00987-6</isbn>
+		<title>Web Design In A Nutshell (2nd Edition)</title>
+		<authors>
+			<author>Jenifer Niederst Robbins</author>
+		</authors>	
+		<publisher>O'Reilly</publisher>
+	</book>
+	<book>
+		<isbn>978-1-4302-1011-5</isbn>
+		<title>PHP Object Oriented Solutions</title>
+		<authors>
+			<author>David Powers</author>
+		</authors>	
+		<publisher>Friends of Ed</publisher>
+	</book>
+	<book>
+		<isbn>978-0-470-41396-8</isbn>
+		<title>Beginning PHP 5.3</title>
+		<authors>
+			<author>Matt Doyle</author>
+		</authors>	
+		<publisher>Wrox</publisher>
+	</book>
+	<book>
+		<isbn>978-0-470-10263-3</isbn>
+		<title>Ajax Bible</title>
+		<authors>
+			<author>Steven Holzner</author>
+		</authors>	
+		<publisher>Wiley</publisher>
+	</book>
+	<book>
+		<isbn>978-0-596-51774-8</isbn>
+		<title>JavaScript The Good Parts</title>
+		<authors>
+			<author>Douglas Crockford</author>
+		</authors>	
+		<publisher>O'Reilly</publisher>
+	</book>
+	<book>
+		<isbn>978-0-596-80279-0</isbn>
+		<title>High Performance JavaScript</title>
+		<authors>
+			<author>Nicholas C. Zakas</author>
+		</authors>	
+		<publisher>O'Reilly</publisher>
+	</book>
+	<book>
+		<isbn>978-0-975-8419-8-3</isbn>
+		<title>The CSS Anthology 101 Essential Tips, Tricks, and Hacks (2nd Edition)</title>
+		<authors>
+			<author>Rachel Andrew</author>
+		</authors>	
+		<publisher>Sitepoint</publisher>
+	</book>
+	<book>
+		<isbn>978-0-596-80244-8</isbn>
+		<title>CSS The Missing Manual</title>
+		<authors>
+			<author>David Sawyer McFarland</author>
+		</authors>	
+		<publisher>O'Reilly</publisher>
+	</book>
+	<book>
+		<isbn>978-0-321-71963-8</isbn>
+		<title>CSS 3</title>
+		<authors>
+			<author>Jason Cranford Teague</author>
+		</authors>	
+		<publisher>Peachpit Press</publisher>
+	</book>
+	<book>
+		<isbn>978-0-672-32976-0</isbn>
+		<title>Sams Teach Yourself PHP, MySQL, and Apache</title>
+		<authors>
+			<author>Julie C. Meloni</author>
+		</authors>	
+		<publisher>Sams</publisher>
+	</book>
+	<book>
+		<isbn>978-1-59059-689-0</isbn>
+		<title>Beginning CSS Web Development</title>
+		<authors>
+			<author>Simon Collison</author>
+		</authors>	
+		<publisher>Apress</publisher>
+	</book>
+	<book>
+		<isbn>978-0-470-06916-5</isbn>
+		<title>JavaScript Bible</title>
+		<authors>
+			<author>Danny Goodman</author>
+			<author>Michael Morrison</author>
+		</authors>	
+		<publisher>Wiley</publisher>
+	</book>
+
+</books>
